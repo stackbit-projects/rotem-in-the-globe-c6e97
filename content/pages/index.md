@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love where you work, because work loves you'
+    title: Welcome to Rotem in the Globe
     text: >
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
@@ -54,7 +54,8 @@ sections:
     colors: colors-f
     title: Where did everyone go?
     text: >
-      Learn how top tech companies have learned working remote using our product.
+      Learn how top tech companies have learned working remote using our
+      product.
     actions:
       - type: Button
         label: Sign Up
@@ -133,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
