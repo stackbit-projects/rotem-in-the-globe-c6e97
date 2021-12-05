@@ -50,7 +50,7 @@ sections:
   - elementId: ''
     variant: variant-c
     colors: colors-d
-    title: About us
+    title: My Journey so far
     subtitle: Featured people section example
     actions: []
     people:
