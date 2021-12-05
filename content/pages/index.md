@@ -6,10 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Welcome to Rotem in the Globe
-    text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: "Thanks for stopping by!\n\nHere you can find all the recent and cool places I've traveled to in the past years\n\nHave fun \U0001F30F\n"
     actions:
       - type: Button
         label: Sign up
