@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
