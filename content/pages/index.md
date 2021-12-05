@@ -49,7 +49,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     variant: variant-c
-    colors: colors-b
+    colors: colors-g
     title: About us
     subtitle: Featured people section example
     actions: []
