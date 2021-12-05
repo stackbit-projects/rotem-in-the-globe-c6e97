@@ -89,9 +89,8 @@ sections:
           ### 32
       - type: FeaturedItem
         title: Near death exp
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          2
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
