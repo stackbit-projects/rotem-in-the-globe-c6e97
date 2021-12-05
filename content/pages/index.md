@@ -88,7 +88,7 @@ sections:
         text: |
           ### 32
       - type: FeaturedItem
-        title: Focused
+        title: Near death exp
         text: >
           Learn how top tech companies have learned working remote using our
           product.
