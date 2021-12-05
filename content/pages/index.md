@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    variant: variant-c
+    variant: variant-a
     colors: colors-d
     title: About us
     subtitle: Featured people section example
