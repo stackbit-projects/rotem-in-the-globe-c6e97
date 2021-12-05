@@ -54,7 +54,7 @@ sections:
       - type: FeaturedItem
         title: Continents
         featuredImage:
-          url: /images/streamline-icon-happy-destination@72x72.png
+          url: /images/Frame 4.jpg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
