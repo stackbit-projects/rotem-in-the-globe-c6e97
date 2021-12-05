@@ -52,7 +52,7 @@ sections:
     title: My journey so far
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Countries
         text: >
           Learn how top tech companies have learned working remote using our
           product.
