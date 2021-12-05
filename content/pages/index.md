@@ -85,6 +85,8 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        text: |
+          32
       - type: FeaturedItem
         title: Focused
         text: >
