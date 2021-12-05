@@ -70,6 +70,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        subtitle: Continents
       - type: FeaturedItem
         title: Smarter
         text: >
