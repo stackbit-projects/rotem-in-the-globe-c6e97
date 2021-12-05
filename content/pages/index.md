@@ -90,7 +90,7 @@ sections:
       - type: FeaturedItem
         title: Near death exp
         text: |
-          2
+          ### 2
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
