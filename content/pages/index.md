@@ -51,7 +51,6 @@ sections:
     variant: variant-c
     colors: colors-d
     title: My Journey so far
-    subtitle: Featured people section example
     actions: []
     people:
       - content/data/team/desmond-eagle.json
