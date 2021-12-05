@@ -105,7 +105,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
-    columns: 4
+    columns: 3
     styles:
       self:
         height: auto
