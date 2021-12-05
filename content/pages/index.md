@@ -72,7 +72,7 @@ sections:
       - type: FeaturedItem
         title: Countries
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/Frame 3.jpg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
