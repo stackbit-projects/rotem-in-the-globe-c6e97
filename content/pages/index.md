@@ -54,7 +54,7 @@ sections:
       - type: FeaturedItem
         title: Continents
         featuredImage:
-          url: /images/Frame 4.jpg
+          url: /images/Frame 4-949f3440.jpg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
