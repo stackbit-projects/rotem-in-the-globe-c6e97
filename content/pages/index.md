@@ -205,43 +205,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-a
-    title: Small tip
-    text: >
-      No matter where you go, it's always a good idea to take a music instrument
-      with you :)
-    media:
-      type: ImageBlock
-      url: /images/midburn2.jpg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-14
-          - pb-14
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderColor: border-primary
-        borderWidth: 0
-        borderStyle: solid
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
     colors: colors-i
     quote: |
       ## “Travel is the only thing you buy that makes you richer"
@@ -278,6 +241,43 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
+  - elementId: ''
+    colors: colors-a
+    title: Small tip
+    text: >
+      No matter where you go, it's always a good idea to take a music instrument
+      with you :)
+    media:
+      type: ImageBlock
+      url: /images/midburn2.jpg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-14
+          - pb-14
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderColor: border-primary
+        borderWidth: 0
+        borderStyle: solid
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - type: ContactSection
     colors: colors-f
     title: Want to be part of my next destination?
