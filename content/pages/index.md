@@ -135,7 +135,7 @@ sections:
   - elementId: ''
     variant: variant-a
     colors: colors-f
-    title: Featured
+    title: Recent places in the globe
     subtitle: Featured blog posts section example
     actions:
       - type: Button
