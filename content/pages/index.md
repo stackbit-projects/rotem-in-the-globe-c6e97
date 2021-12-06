@@ -171,7 +171,8 @@ sections:
           - pr-20
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
+        
       subtitle:
         textAlign: left
       actions:
