@@ -184,7 +184,7 @@ sections:
           opacity: 100
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-24
