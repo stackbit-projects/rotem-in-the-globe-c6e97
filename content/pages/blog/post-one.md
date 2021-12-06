@@ -30,7 +30,7 @@ bottomSections:
         url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
         altText: Image four
         caption: Image four caption
-    spacing: 1
+    spacing: 2
     columns: 3
     aspectRatio: '3:4'
     imageSizePx: 640
