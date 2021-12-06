@@ -161,8 +161,8 @@ sections:
         padding:
           - pt-16
           - pb-16
-          - pl-8
-          - pr-8
+          - pl-16
+          - pr-16
         justifyContent: center
       title:
         textAlign: center
