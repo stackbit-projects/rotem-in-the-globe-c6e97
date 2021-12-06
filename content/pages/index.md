@@ -435,7 +435,7 @@ sections:
     type: TestimonialsSection
   - type: ContactSection
     colors: colors-f
-    title: Get early access
+    title: Want to be part of my next destination?
     text: >
       Sign up your team today to be the first to try out our new product to
       increae your team’s productivity
