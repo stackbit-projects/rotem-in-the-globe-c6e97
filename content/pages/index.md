@@ -160,7 +160,7 @@ sections:
     enableHover: true
     styles:
       self:
-        height: auto
+        height: screen
         width: full
         margin:
           - mt-0
