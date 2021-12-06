@@ -421,7 +421,6 @@ sections:
       - quote: |
           ## "Travel is the only thing you buy that makes you richer"
         name: Unknown
-        title: Happy customer
         image:
           type: ImageBlock
           url: /images/carla.jpg
