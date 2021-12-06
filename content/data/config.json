@@ -18,16 +18,6 @@
                 "label": "Destinations",
                 "altText": "Blog",
                 "url": "/blog"
-            },
-            {
-                "label": "Learn more",
-                "altText": "Learn more",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
             }
         ],
         "secondaryLinks": [
