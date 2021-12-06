@@ -135,7 +135,6 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Recent places in the globe
-    subtitle: This is the subtitle
     images:
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
