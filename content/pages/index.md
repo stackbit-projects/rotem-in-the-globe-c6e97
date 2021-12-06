@@ -205,7 +205,7 @@ sections:
         justifyContent: center
       quote:
         textAlign: center
-        
+      
       name:
         fontWeight: 400
         fontStyle: normal
