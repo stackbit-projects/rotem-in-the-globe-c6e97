@@ -225,7 +225,7 @@ sections:
           - mt-0
           - mb-0
         padding:
-          - pt-14
+          - pt-20
           - pb-14
           - pl-4
           - pr-4
