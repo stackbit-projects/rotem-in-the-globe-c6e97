@@ -3,9 +3,7 @@ title: Wild Midburn
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem
-  semper. Donec sed facilisis nibh.
+excerpt: '1 week in a liquid dream: Midburn 2021- Words just couldn''t describe'
 featuredImage:
   type: ImageBlock
   url: /images/Midburn.jpg
