@@ -418,9 +418,8 @@ sections:
   - elementId: ''
     colors: colors-a
     testimonials:
-      - quote: >
-          ## Such a great experience to be using this product. It really helped
-          with what I needed help with.
+      - quote: |
+          ## Travel is the only thing you buy that makes you richer
         name: Carla Rogers
         title: Happy customer
         image:
