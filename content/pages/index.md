@@ -123,7 +123,7 @@ sections:
         justifyContent: center
         borderRadius: none
         borderWidth: 0
-        borderStyle: none
+        borderStyle: solid
         borderColor: border-primary
       title:
         textAlign: center
