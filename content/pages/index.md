@@ -132,7 +132,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - colors: colors-a
+  - colors: colors-h
     elementId: ''
     title: Recent places in the globe
     images:
