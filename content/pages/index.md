@@ -9,7 +9,7 @@ sections:
     text: "Thanks for stopping by! Here you can find all the recent and cool places I've traveled in the past years Have fun \U0001F30F\n"
     actions:
       - type: Button
-        label: Subscribe for more
+        label: Subscribe
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
