@@ -172,7 +172,6 @@ sections:
         justifyContent: center
       title:
         textAlign: center
-        
       subtitle:
         textAlign: left
       actions:
@@ -219,7 +218,7 @@ sections:
     colors: colors-a
     title: Did you know?
     text: |
-      On my free time, I practise some Acro yoga with my partner
+      On my free time, I practice some Acro yoga with my partner
     media:
       type: ImageBlock
       url: /images/Mask Group-6dfa3a39.jpg
