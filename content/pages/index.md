@@ -178,7 +178,7 @@ sections:
       On my free time, I practise some Acro yoga with my partner
     media:
       type: ImageBlock
-      url: /images/Image-on-the-left.svg
+      url: /images/Mask Group.jpg
       altText: Hero section image
     styles:
       self:
