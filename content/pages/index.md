@@ -121,7 +121,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
+        borderRadius: xx-large
         borderWidth: 1
         borderStyle: solid
         borderColor: border-primary
