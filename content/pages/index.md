@@ -244,7 +244,7 @@ sections:
   - elementId: ''
     colors: colors-i
     quote: |
-      “Travel is the only thing you buy that makes you richer"
+      ## “Travel is the only thing you buy that makes you richer"
     name: Unkown
     backgroundImage:
       url: /images/Frame 6.jpg
