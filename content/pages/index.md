@@ -111,7 +111,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-6
+          - mt-8
           - mb-6
           - ml-8
           - mr-8
