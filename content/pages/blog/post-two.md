@@ -1,5 +1,5 @@
 ---
-title: A Work Bubbles
+title: Wild Midburn
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hugh-saturation.json
