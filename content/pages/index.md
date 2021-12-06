@@ -192,7 +192,7 @@ sections:
           - ml-24
           - mr-24
         padding:
-          - pt-20
+          - pt-32
           - pb-20
           - pl-4
           - pr-4
