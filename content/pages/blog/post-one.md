@@ -49,7 +49,7 @@ bottomSections:
           - pt-4
           - pb-12
           - pl-10
-          - pr-4
+          - pr-10
         justifyContent: center
       title:
         textAlign: center
