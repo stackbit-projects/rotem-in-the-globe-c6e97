@@ -32,7 +32,7 @@ bottomSections:
         caption: Image four caption
     spacing: 1
     columns: 3
-    aspectRatio: '16:9'
+    aspectRatio: '3:4'
     imageSizePx: 640
     showCaption: false
     enableHover: true
