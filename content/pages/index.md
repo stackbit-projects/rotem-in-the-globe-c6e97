@@ -206,7 +206,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: 'Small tip :)'
+    title: Small tip
     text: >
       No matter where you go, it's always a good idea to take a music instrument
       with you :)
