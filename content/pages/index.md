@@ -134,7 +134,7 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-a
     elementId: ''
-    title: Gallery
+    title: Recent places in the globe
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
