@@ -419,7 +419,7 @@ sections:
     colors: colors-g
     quote: |
       “Travel is the only thing you buy that makes you richer"
-    name: Johnna Doe
+    name: Unkown
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/bg.jpg'
       altText: Product Marketing Manager Quote
