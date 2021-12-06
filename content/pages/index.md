@@ -232,7 +232,7 @@ sections:
           - mb-0
         padding:
           - pt-28
-          - pb-14
+          - pb-28
           - pl-4
           - pr-4
         alignItems: center
