@@ -420,7 +420,7 @@ sections:
     testimonials:
       - quote: |
           ## "Travel is the only thing you buy that makes you richer"
-        name: Carla Rogers
+        name: Unknown
         title: Happy customer
         image:
           type: ImageBlock
