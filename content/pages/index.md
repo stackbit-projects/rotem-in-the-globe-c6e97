@@ -133,7 +133,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    variant: variant-d
+    variant: variant-a
     colors: colors-h
     title: Recent places in the globe
     actions:
