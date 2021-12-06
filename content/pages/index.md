@@ -173,6 +173,40 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-a
+    title: And a strong value proposition
+    text: >
+      Share WIP, comment on each other’s work, approve what’s ready to go, ship
+      together
+    media:
+      type: ImageBlock
+      url: /images/Image-on-the-left.svg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-6
+          - pb-36
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-a
     title: Did you know?
     text: |
       On my free time, I practise some Acro yoga with my partner
@@ -198,40 +232,6 @@ sections:
         borderColor: border-primary
         borderWidth: 0
         borderStyle: solid
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: And a strong value proposition
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    media:
-      type: ImageBlock
-      url: /images/Image-on-the-left.svg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-6
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
