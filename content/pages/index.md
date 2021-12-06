@@ -136,7 +136,6 @@ sections:
     variant: variant-a
     colors: colors-f
     title: Recent places in the globe
-    subtitle: Featured blog posts section example
     actions:
       - type: Button
         label: View All
