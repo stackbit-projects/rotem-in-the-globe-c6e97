@@ -420,7 +420,6 @@ sections:
     quote: |
       “Travel is the only thing you buy that makes you richer"
     name: Johnna Doe
-    title: Product Marketing Manager at Acme
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/bg.jpg'
       altText: Product Marketing Manager Quote
