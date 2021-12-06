@@ -436,9 +436,8 @@ sections:
   - type: ContactSection
     colors: colors-f
     title: Want to be part of my next destination?
-    text: >
-      Sign up your team today to be the first to try out our new product to
-      increae your team’s productivity
+    text: |
+      Subscribe to my blog and see all updates before everyone! 
     form:
       type: FormBlock
       elementId: contact-form
