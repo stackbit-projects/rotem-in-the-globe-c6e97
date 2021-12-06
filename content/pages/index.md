@@ -416,7 +416,7 @@ sections:
         textAlign: center
     type: FaqSection
   - elementId: ''
-    colors: colors-i
+    colors: colors-g
     quote: |
       “Travel is the only thing you buy that makes you richer"
     name: Johnna Doe
