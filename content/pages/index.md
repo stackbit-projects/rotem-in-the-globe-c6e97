@@ -86,7 +86,7 @@ sections:
           text:
             textAlign: center
         text: |
-          ### 32
+          # 32
       - type: FeaturedItem
         title: Near death exp
         text: |
