@@ -207,8 +207,9 @@ sections:
   - elementId: ''
     colors: colors-a
     title: 'Small tip :)'
-    text: |
-      On my free time, I practise some Acro yoga with my partner
+    text: >
+      No matter where you go, it's always a good idea to take a music instrument
+      with you :)
     media:
       type: ImageBlock
       url: /images/midburn2.jpg
