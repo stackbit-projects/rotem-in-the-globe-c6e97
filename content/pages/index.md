@@ -122,7 +122,7 @@ sections:
           - pr-20
         justifyContent: center
         borderRadius: none
-        borderWidth: 3
+        borderWidth: 0
         borderStyle: double
         borderColor: border-primary
       title:
