@@ -187,8 +187,8 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
-          - mb-0
+          - mt-8
+          - mb-8
           - ml-8
           - mr-8
         padding:
