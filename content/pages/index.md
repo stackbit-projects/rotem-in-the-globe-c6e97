@@ -157,7 +157,7 @@ sections:
     showAuthor: false
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         margin:
           - mt-0
