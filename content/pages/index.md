@@ -58,7 +58,7 @@ sections:
           # 5
         author: ''
         rating: 1
-        isRatingVisible: false
+        isRatingVisible: true
         featuredImage:
           type: ImageBlock
           url: /images/Frame 10-132203ca.png
