@@ -206,7 +206,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: Did you know?
+    title: 'Small tip :)'
     text: |
       On my free time, I practise some Acro yoga with my partner
     media:
