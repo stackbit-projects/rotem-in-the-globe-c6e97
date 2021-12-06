@@ -190,7 +190,7 @@ sections:
           - mt-0
           - mb-0
           - ml-8
-          - mr-0
+          - mr-8
         padding:
           - pt-36
           - pb-36
