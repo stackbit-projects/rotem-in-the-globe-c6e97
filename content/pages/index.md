@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Welcome to Rotem in the Globe
+    title: Welcome to Rotem in the globe
     text: "Thanks for stopping by! Here you can find all the recent and cool places I've traveled in the past years Have fun \U0001F30F\n"
     actions:
       - type: Button
@@ -174,7 +174,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-        
       actions:
         justifyContent: center
     type: FeaturedPostsSection
