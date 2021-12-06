@@ -8,7 +8,7 @@ excerpt: >-
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/Thailand.jpg
   altText: Post Image
 bottomSections:
   - type: CtaSection
