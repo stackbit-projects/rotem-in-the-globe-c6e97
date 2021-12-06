@@ -142,6 +142,7 @@ sections:
         altText: View All Posts
         url: /blog
         style: primary
+        showIcon: true
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
