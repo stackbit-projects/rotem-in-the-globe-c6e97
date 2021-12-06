@@ -3,7 +3,7 @@ title: Cultural India
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/hugh-saturation.json
-excerpt: 'Wild beaches, endless nature and water all around'
+excerpt: 'Nature, cows, Yoga... Nothing is missing in India'
 featuredImage:
   type: ImageBlock
   url: /images/India.jpg
