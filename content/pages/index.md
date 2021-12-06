@@ -66,7 +66,8 @@ sections:
         actions: []
         styles:
           title:
-            textAlign: left
+            textAlign: center
+            
           subtitle:
             fontWeight: 400
             fontStyle: normal
