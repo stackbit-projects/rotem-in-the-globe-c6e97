@@ -68,7 +68,7 @@ sections:
           text:
             textAlign: center
         text: |
-          ### 5
+          ### Continents 
       - type: FeaturedItem
         title: Countries
         featuredImage:
