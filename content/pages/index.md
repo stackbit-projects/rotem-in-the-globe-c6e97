@@ -72,7 +72,7 @@ sections:
       - type: FeaturedItem
         title: Countries
         featuredImage:
-          url: /images/Group 2.png
+          url: /images/Frame 11.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
