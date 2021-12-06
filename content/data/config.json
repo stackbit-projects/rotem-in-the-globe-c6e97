@@ -15,12 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Countries",
-                "url": "/careers",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Destinations",
                 "altText": "Blog",
                 "url": "/blog"
