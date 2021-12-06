@@ -67,13 +67,14 @@ sections:
         styles:
           title:
             textAlign: center
-            
+
           subtitle:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
           text:
-            textAlign: left
+            textAlign: center
+            
           actions:
             justifyContent: flex-start
       - type: FeaturedItem
