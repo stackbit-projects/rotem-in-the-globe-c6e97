@@ -67,14 +67,12 @@ sections:
         styles:
           title:
             textAlign: center
-
           subtitle:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
           text:
             textAlign: center
-            
           actions:
             justifyContent: flex-start
       - type: FeaturedItem
@@ -240,43 +238,6 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: Small tip
-    text: >
-      No matter where you go, it's always a good idea to take a music instrument
-      with you :)
-    media:
-      type: ImageBlock
-      url: /images/midburn2.jpg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-14
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderColor: border-primary
-        borderWidth: 0
-        borderStyle: solid
       title:
         textAlign: left
       subtitle:
