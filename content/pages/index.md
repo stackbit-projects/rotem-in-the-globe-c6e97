@@ -421,7 +421,7 @@ sections:
       “Travel is the only thing you buy that makes you richer"
     name: Unkown
     backgroundImage:
-      url: /images/bg.jpg
+      url: /images/Frame 6.jpg
       altText: Product Marketing Manager Quote
       styles:
         self:
