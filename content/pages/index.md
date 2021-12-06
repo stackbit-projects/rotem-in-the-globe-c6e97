@@ -189,7 +189,7 @@ sections:
           - mb-0
         padding:
           - pt-14
-          - pb-36
+          - pb-14
           - pl-4
           - pr-4
         alignItems: center
