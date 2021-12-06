@@ -193,7 +193,7 @@ sections:
           - mr-24
         padding:
           - pt-32
-          - pb-20
+          - pb-32
           - pl-4
           - pr-4
         justifyContent: center
