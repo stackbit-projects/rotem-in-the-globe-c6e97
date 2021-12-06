@@ -48,7 +48,7 @@ bottomSections:
         padding:
           - pt-4
           - pb-12
-          - pl-10
+          - pl-16
           - pr-10
         justifyContent: center
       title:
