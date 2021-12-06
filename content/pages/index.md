@@ -119,7 +119,7 @@ sections:
           - pt-28
           - pb-28
           - pl-20
-          - pr-4
+          - pr-20
         justifyContent: center
         borderRadius: xx-large
         borderWidth: 2
