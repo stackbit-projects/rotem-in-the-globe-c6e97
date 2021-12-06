@@ -172,39 +172,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: ''
-    colors: colors-a
-    title: Did you know?
-    text: |
-      On my free time, I practise some Acro yoga with my partner
-    media:
-      type: ImageBlock
-      url: /images/Mask Group-6dfa3a39.jpg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-14
-          - pb-14
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
     colors: colors-i
     quote: |
       ## “Travel is the only thing you buy that makes you richer"
@@ -241,6 +208,39 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
+  - elementId: ''
+    colors: colors-a
+    title: Did you know?
+    text: |
+      On my free time, I practise some Acro yoga with my partner
+    media:
+      type: ImageBlock
+      url: /images/Mask Group-6dfa3a39.jpg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-14
+          - pb-14
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     colors: colors-a
     title: Small tip
