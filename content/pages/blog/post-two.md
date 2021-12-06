@@ -8,7 +8,7 @@ excerpt: >-
   semper. Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpg
+  url: /images/Midburn.jpg
   altText: Post Image
 bottomSections:
   - type: CtaSection
