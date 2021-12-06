@@ -417,9 +417,8 @@ sections:
     type: FaqSection
   - elementId: ''
     colors: colors-a
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      “Travel is the only thing you buy that makes you richer"
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
