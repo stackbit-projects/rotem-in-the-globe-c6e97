@@ -51,23 +51,6 @@ sections:
     elementId: ''
     title: My journey so far
     items:
-      - type: FeaturedItem
-        title: Continent
-        featuredImage:
-          altText: altText of the image
-          caption: Caption of the image
-          elementId: ''
-          styles:
-            self:
-              opacity: 100
-          type: ImageBlock
-        styles:
-          title:
-            textAlign: center
-          text:
-            textAlign: center
-        text: |
-          # 5
       - elementId: ''
         title: Continents
         subtitle: ''
