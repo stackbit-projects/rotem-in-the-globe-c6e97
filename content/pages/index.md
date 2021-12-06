@@ -92,7 +92,7 @@ sections:
         text: |
           ### 2
         featuredImage:
-          url: /images/Frame 12.png
+          url: /images/Frame 12-2c079d1c.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
