@@ -40,7 +40,7 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       text:
