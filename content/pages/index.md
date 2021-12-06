@@ -174,9 +174,8 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Did you know?
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      On my free time, I practise some Acro yoga with my partner
     media:
       type: ImageBlock
       url: /images/Image-on-the-left.svg
