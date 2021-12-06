@@ -1,7 +1,7 @@
 ---
 title: Heavenly Thailand
 layout: PostLayout
-date: '2021-06-28'
+date: '2021-01-28'
 author: content/data/team/dianne-ameter.json
 excerpt: >-
   Paradise on earth, amazing food and culture in the most beatuful country in
