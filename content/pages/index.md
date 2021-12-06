@@ -134,7 +134,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     variant: variant-a
-    colors: colors-f
+    colors: colors-h
     title: Recent places in the globe
     actions:
       - type: Button
