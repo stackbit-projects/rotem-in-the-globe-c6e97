@@ -90,7 +90,7 @@ sections:
       - type: FeaturedItem
         title: Near death exp
         text: |
-          ### 2
+          # 2
         featuredImage:
           url: /images/Frame 12-2c079d1c.png
           altText: altText of the image
