@@ -15,7 +15,7 @@ sections:
         elementId: hero-main-button
     media:
       type: ImageBlock
-      url: /images/Rotem thai-d0f4f5bf.png
+      url: /images/Rotem thai 1.png
       altText: Image alt text
       caption: Image caption
     styles:
