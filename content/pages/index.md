@@ -174,6 +174,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+        
       actions:
         justifyContent: center
     type: FeaturedPostsSection
