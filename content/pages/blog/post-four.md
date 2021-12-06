@@ -3,9 +3,7 @@ title: Magestic Croatia
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: 'Wild beaches, endless nature and water all around'
 featuredImage:
   type: ImageBlock
   url: /images/Croatia.jpg
