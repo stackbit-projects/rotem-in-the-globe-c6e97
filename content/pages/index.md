@@ -52,7 +52,7 @@ sections:
     title: My journey so far
     items:
       - type: FeaturedItem
-        title: '5'
+        title: Continent
         featuredImage:
           url: /images/Frame 10-132203ca.png
           altText: altText of the image
