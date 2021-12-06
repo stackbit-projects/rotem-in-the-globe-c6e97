@@ -211,7 +211,7 @@ sections:
       On my free time, I practise some Acro yoga with my partner
     media:
       type: ImageBlock
-      url: /images/שברם.jpg
+      url: /images/midburn2.jpg
       altText: Hero section image
     styles:
       self:
