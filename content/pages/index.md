@@ -116,7 +116,7 @@ sections:
           - ml-8
           - mr-8
         padding:
-          - pt-20
+          - pt-16
           - pb-20
           - pl-20
           - pr-20
