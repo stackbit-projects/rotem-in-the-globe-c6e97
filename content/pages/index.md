@@ -54,7 +54,6 @@ sections:
       - type: FeaturedItem
         title: Continent
         featuredImage:
-          url: /images/Frame 10-132203ca.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
