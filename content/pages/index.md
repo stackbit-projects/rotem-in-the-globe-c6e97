@@ -112,7 +112,7 @@ sections:
         width: wide
         margin:
           - mt-8
-          - mb-6
+          - mb-8
           - ml-8
           - mr-8
         padding:
