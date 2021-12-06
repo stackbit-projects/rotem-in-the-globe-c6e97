@@ -162,7 +162,7 @@ sections:
           - pt-16
           - pb-16
           - pl-20
-          - pr-16
+          - pr-20
         justifyContent: center
       title:
         textAlign: center
