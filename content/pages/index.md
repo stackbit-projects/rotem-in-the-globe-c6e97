@@ -122,7 +122,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: none
-        borderWidth: 0
+        borderWidth: 1
         borderStyle: solid
         borderColor: border-primary
       title:
