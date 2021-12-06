@@ -278,46 +278,6 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
-  - elementId: ''
-    colors: colors-a
-    testimonials:
-      - quote: |
-          ## "Travel is the only thing you buy that makes you richer"
-        name: Unknown
-        image:
-          type: ImageBlock
-          url: /images/carla.jpg
-          altText: Photo of Isabelle Parks
-        styles:
-          self:
-            margin:
-              - mt-0
-              - mb-0
-            flexDirection: row-reverse
-          quote:
-            textAlign: left
-          name:
-            textAlign: left
-          title:
-            textAlign: left
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
   - type: ContactSection
     colors: colors-f
     title: Want to be part of my next destination?
