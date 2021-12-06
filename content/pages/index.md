@@ -152,7 +152,7 @@ sections:
         url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
         altText: Image four
         caption: Image four caption
-    spacing: 1
+    spacing: 3
     columns: 4
     aspectRatio: '16:9'
     imageSizePx: 300
