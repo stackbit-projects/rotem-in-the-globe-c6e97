@@ -1,5 +1,5 @@
 ---
-title: Surround Yourself With the Right People
+title: Lovely Hungary
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
