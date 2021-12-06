@@ -31,7 +31,7 @@ bottomSections:
         altText: Image four
         caption: Image four caption
     spacing: 1
-    columns: 4
+    columns: 3
     aspectRatio: '1:1'
     imageSizePx: 640
     showCaption: false
