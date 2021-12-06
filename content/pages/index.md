@@ -419,7 +419,7 @@ sections:
     colors: colors-a
     testimonials:
       - quote: |
-          ## Travel is the only thing you buy that makes you richer
+          ## "Travel is the only thing you buy that makes you richer"
         name: Carla Rogers
         title: Happy customer
         image:
