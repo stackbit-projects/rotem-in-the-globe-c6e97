@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-a
+  - colors: colors-d
     elementId: ''
     title: My journey so far
     items:
