@@ -204,7 +204,8 @@ sections:
           - pr-4
         justifyContent: center
       quote:
-        textAlign: left
+        textAlign: center
+        
       name:
         fontWeight: 400
         fontStyle: normal
