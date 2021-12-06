@@ -78,8 +78,7 @@ sections:
         isRatingVisible: false
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Frame 10-132203ca.png
           altText: Item image
         actions: []
         styles:
