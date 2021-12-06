@@ -27,7 +27,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Destinations",
                 "altText": "Blog",
                 "url": "/blog"
             }
