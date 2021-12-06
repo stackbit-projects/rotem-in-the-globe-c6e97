@@ -449,7 +449,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-      submitLabel: Sign Up
+      submitLabel: Subscribe
     styles:
       self:
         height: auto
