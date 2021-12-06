@@ -6,7 +6,7 @@ author: content/data/team/hugh-saturation.json
 excerpt: 'Wild beaches, endless nature and water all around'
 featuredImage:
   type: ImageBlock
-  url: /images/Croatia.jpg
+  url: /images/India.jpg
   altText: Post Image
 bottomSections:
   - type: CtaSection
