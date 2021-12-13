@@ -30,7 +30,7 @@
         "letterSpacing": "normal"
     },
     "h5": {
-        "size": "xl",
+        "size": "3xl",
         "weight": "bold",
         "decoration": "none",
         "case": "none",
