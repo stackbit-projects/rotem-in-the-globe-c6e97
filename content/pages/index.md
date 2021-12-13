@@ -2,51 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-a
-    title: Welcome to Rotem in the globe
-    text: "Thanks for stopping by! Here you can find all the recent and cool places I've traveled in the past years. Have fun \U0001F30F\n"
-    actions:
-      - type: Button
-        label: Subscribe
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
-    media:
-      type: ImageBlock
-      url: /images/Rotem thai 1.png
-      altText: Image alt text
-      caption: Image caption
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-11
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-16
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - colors: colors-e
     elementId: ''
     title: My journey so far
@@ -177,6 +132,51 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
+  - type: HeroSection
+    elementId: homepage-hero-1
+    colors: colors-a
+    title: Welcome to Rotem in the globe
+    text: "Thanks for stopping by! Here you can find all the recent and cool places I've traveled in the past years. Have fun \U0001F30F\n"
+    actions:
+      - type: Button
+        label: Subscribe
+        url: 'https://www.stackbit.com/'
+        style: primary
+        elementId: hero-main-button
+    media:
+      type: ImageBlock
+      url: /images/Rotem thai 1.png
+      altText: Image alt text
+      caption: Image caption
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-11
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-16
+          - pr-4
+          - pl-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - elementId: ''
     colors: colors-i
     quote: |
