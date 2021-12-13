@@ -215,7 +215,7 @@ sections:
         textAlign: left
     type: QuoteSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-f
     title: Did you know?
     text: |
       On my free time, I practice some Acro yoga with my partner
