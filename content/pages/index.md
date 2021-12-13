@@ -93,45 +93,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - elementId: ''
-    variant: variant-a
-    colors: colors-h
-    title: Recent places in the globe
-    actions:
-      - type: Button
-        label: View All
-        altText: View All Posts
-        url: /blog
-        style: primary
-        showIcon: false
-    posts:
-      - content/pages/blog/post-one.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-three.md
-    showDate: false
-    showAuthor: false
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-20
-          - pb-20
-          - pl-20
-          - pr-20
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    type: FeaturedPostsSection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
@@ -177,6 +138,45 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    variant: variant-a
+    colors: colors-h
+    title: Recent places in the globe
+    actions:
+      - type: Button
+        label: View All
+        altText: View All Posts
+        url: /blog
+        style: primary
+        showIcon: false
+    posts:
+      - content/pages/blog/post-one.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-three.md
+    showDate: false
+    showAuthor: false
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-20
+          - pb-20
+          - pl-20
+          - pr-20
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    type: FeaturedPostsSection
   - elementId: ''
     colors: colors-i
     quote: |
