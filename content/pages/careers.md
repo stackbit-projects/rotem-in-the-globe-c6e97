@@ -39,7 +39,8 @@ sections:
   - elementId: ''
     colors: colors-a
     quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together :)
+      ## Being part of this team has been incredible. We’ve fill each other’s
+      gaps, and we go to lunch together :)
     name: Carla Rogers
     title: Someone from the team
     styles:
@@ -73,7 +74,7 @@ sections:
         caption: Team meeting
     spacing: 0
     columns: 1
-    aspectRatio: 'auto'
+    aspectRatio: auto
     imageSizePx: 640
     showCaption: true
     enableHover: false
@@ -110,7 +111,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -125,6 +128,33 @@ sections:
             iconPosition: right
             elementId: ''
             type: Link
+      - elementId: ''
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        author: ''
+        rating: 1
+        isRatingVisible: false
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions: []
+        styles:
+          title:
+            textAlign: left
+          subtitle:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          text:
+            textAlign: left
+          actions:
+            justifyContent: flex-start
       - type: FeaturedItem
         title: Engineering
         text: >
@@ -134,7 +164,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -158,7 +190,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -182,7 +216,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -227,7 +263,9 @@ sections:
   - elementId: contact-form
     colors: colors-f
     title: Not seeing the right role? Contact us
-    text: We might have more roles soon, and we’ll contact you if we think there might be a good match
+    text: >-
+      We might have more roles soon, and we’ll contact you if we think there
+      might be a good match
     form:
       type: FormBlock
       elementId: contact-form
