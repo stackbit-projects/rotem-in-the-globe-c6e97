@@ -12,7 +12,7 @@ sections:
         text: |
           # 5
         author: ''
-        rating: 1
+        rating: 2
         isRatingVisible: false
         featuredImage:
           type: ImageBlock
