@@ -49,8 +49,7 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock",
-            "url": "/images/Mask Group.png"
+            "type": "ImageBlock"
         }
     }
 }
