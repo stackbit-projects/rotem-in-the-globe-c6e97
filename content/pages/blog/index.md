@@ -14,7 +14,7 @@ sections:
         url: /blog
         style: primary
     showRecent: true
-    recentCount: 3
+    recentCount: 10
     styles:
       self:
         height: auto
