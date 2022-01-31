@@ -7,12 +7,7 @@ sections:
     colors: colors-a
     title: Latest news
     subtitle: Latest blog posts section example
-    actions:
-      - type: Button
-        label: View All
-        altText: View All Posts
-        url: /blog
-        style: primary
+    actions: []
     showRecent: true
     recentCount: 10
     styles:
