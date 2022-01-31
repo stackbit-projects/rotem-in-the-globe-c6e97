@@ -152,7 +152,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
-    columns: 2
+    columns: 3
     styles:
       self:
         height: auto
