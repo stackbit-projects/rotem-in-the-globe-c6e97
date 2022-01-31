@@ -152,6 +152,7 @@ sections:
     posts:
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
+      - content/pages/blog/postlayout-3u47gn565.md
       - content/pages/blog/post-three.md
     showDate: false
     showAuthor: false
